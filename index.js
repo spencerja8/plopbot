@@ -41,5 +41,3 @@ bot.on('message', message => {
 });
 
 bot.login(token);
-
-console.log(guild.available);
